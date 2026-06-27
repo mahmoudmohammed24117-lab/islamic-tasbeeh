@@ -1,0 +1,89 @@
+nav{
+    background-color: blue;
+    color: white;
+    width: 100%;
+    height: 120px;
+    border-radius: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
+header{
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    color: black;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#one{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+    height: 250px;
+    width: 100%;
+}
+#one-one{
+    width: 50%;
+     display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+#one-two{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+}
+.btn-one{
+    background-color: blue;
+    color: white;
+    font-size: 60px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.btn-two{
+    background-color: green;
+    color: white;
+    height: 30px;
+    width: 120px;
+}
+.btn-three{
+    background-color: brown;
+    color: white;
+    height: 30px;
+    width: 120px;
+    padding-left: 20px;
+}
+#one-two-two{
+    padding-top: 50px;
+}
+.two{
+    margin-top: 30px;
+}
+.three{
+   
+    margin-top: 30px;
+}
+.four{
+   
+    margin-top: 30px;
+}
+.five{
+   
+    margin-top: 30px;
+}
+.item{
+    display: none;
+}
