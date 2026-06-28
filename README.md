@@ -1,5 +1,9 @@
 # 📿 Islamic Tasbeeh
 
+## 🌐 Live Demo
+
+👉 **[View Live Website](https://mahmoudmohammed24117-lab.github.io/islamic-tasbeeh/)**
+
 A modern and responsive **Digital Islamic Tasbeeh** built using **HTML5, CSS3, and JavaScript**. The application provides a simple and elegant interface for counting Tasbeeh with smooth interactions and a responsive design.
 
 ## ✨ Features
